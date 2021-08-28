@@ -3,8 +3,7 @@ Uber Clone For bus stops
 
 ## Tecnologias usadas
 
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/IDE-AndroidStudio-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-
+![](https://img.shields.io/badge/Code-ReactJS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 <!-- Actual text -->
 
