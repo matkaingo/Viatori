@@ -26,7 +26,7 @@ Uber Clone For bus stops
 <!-- Links to your social media accounts -->
 
 [2]:https://www.instagram.com/mategomezrios/
-[3]:https://www.linkedin.com/in/mateo-g%C3%B3mez-rios-23529a1a9/
+[3]:https://www.linkedin.com/in/matkaingo/
 
 
 ## Contributions
